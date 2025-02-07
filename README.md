@@ -25,7 +25,6 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn a
 ![xxlv's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxlv&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/xxlv)
-- [Twitter](https://twitter.com/xxlv)
+- [Twitter](https://x.com/lvxiang_ghost)
 
 Thank you for visiting my profile! Have a great day! 😊
