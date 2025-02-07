@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn a
 - 👯 I’m looking to collaborate on innovative projects.
 - 🤔 I’m looking for help with improving my knowledge in cloud computing.
 - 💬 Ask me about Python, JavaScript, and web development.
-- 📫 How to reach me: [Email](mailto:xxlv@example.com)
+- 📫 How to reach me: [Email](mailto:lvxiang119@gmail.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love solving puzzles and playing chess.
 
