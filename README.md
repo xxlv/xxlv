@@ -13,13 +13,10 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn a
 - ⚡ Fun fact: I love solving puzzles and playing chess.
 
 ## 🛠️ Languages and Tools
+- ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=golang)
 - ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 - ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-- ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
-- ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
 
 ## 📈 GitHub Stats
 ![xxlv's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxlv&show_icons=true&theme=radical)
